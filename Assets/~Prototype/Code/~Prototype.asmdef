@@ -1,0 +1,18 @@
+{
+    "name": "~Prototype",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a0458aa312b7187418746b34f2bf9b66"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
